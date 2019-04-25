@@ -1,4 +1,4 @@
-<div class="page__footer-follow">
+<!-- <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -12,8 +12,16 @@
       {% endfor %}
     {% endif %}
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
-</div>
+</div> -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright"> {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}:
+  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+  <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>,
+  <a href="https://atom.io/" rel="nofollow">Atom</a>,
+  <a href="https://inkscape.org/" rel="nofollow">Inkscape</a>. <br>
+  Kleingedrucktes:
+  <a href="{{ 'impressum/' | relative_url }}" rel="nofollow">Impressum</a>,
+  <a href="{{ 'lizenz/' | relative_url }}" rel="nofollow">Lizenz</a>. <br>
+  </div>

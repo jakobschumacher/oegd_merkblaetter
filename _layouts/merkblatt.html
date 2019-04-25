@@ -1,0 +1,24 @@
+---
+layout: archive
+---
+
+{% unless page.header.overlay_color or page.header.overlay_image %}
+  <h1 id="page-title" class="page__title">Merkblatt für {{ page.title }}</h1>
+{% endunless %}
+
+<h2> Was ist eine {{ page.title }}</h2>
+{{ page.was_ist | markdownify }}
+<h2> Wie wird eine {{ page.title }} übertragen</h2>
+{{ page.uebertragen | markdownify }}
+<h2>Welche Krankheitszeichen haben Erkrankte?</h2>
+{{ page.krankheitszeichen | markdownify }}
+<h2>Wann bricht die Erkrankung aus und wie lange ist man ansteckend?</h2>
+{{ page.wann_und_wie_lange | markdownify }}
+<h2>Wer ist besonders gefährdet?</h2>
+{{ page.gefaehrdete | markdownify }}
+<h2>Was muss ich bei einer Erkrankung beachten?</h2>
+{{ page.verhaltenshinweise | markdownify }}
+<h2>Wie kann ich mich schützen?</h2>
+{{ page.schutz | markdownify }}
+<h2>Wo kann ich mich informieren?</h2>
+{{ page.informationen | markdownify }}

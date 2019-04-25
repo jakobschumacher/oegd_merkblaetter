@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="215.71321mm"
+   height="215.71321mm"
+   viewBox="0 0 215.71321 215.71321"
+   version="1.1"
+   id="svg638"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ÖGD-Logo2.svg">
+  <defs
+     id="defs632">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter813">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood803" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="out"
+         result="composite1"
+         id="feComposite805" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="57.1"
+         result="blur"
+         id="feGaussianBlur807" />
+      <feOffset
+         dx="11.8"
+         dy="2.9"
+         result="offset"
+         id="feOffset809" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="fbSourceGraphic"
+         id="feComposite811" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix827" />
+      <feFlood
+         id="feFlood829"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="flood"
+         id="feComposite831"
+         in="fbSourceGraphic"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur833"
+         in="composite1"
+         stdDeviation="11.8"
+         result="blur" />
+      <feOffset
+         id="feOffset835"
+         dx="11.8"
+         dy="2.9"
+         result="offset" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite837"
+         in="offset"
+         operator="atop"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix839" />
+      <feFlood
+         id="feFlood841"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="flood"
+         id="feComposite843"
+         in="fbSourceGraphic"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur845"
+         in="composite1"
+         stdDeviation="11.8"
+         result="blur" />
+      <feOffset
+         id="feOffset847"
+         dx="11.8"
+         dy="2.9"
+         result="offset" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite849"
+         in="offset"
+         operator="atop"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix923" />
+      <feFlood
+         id="feFlood925"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite927"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur929"
+         in="composite1"
+         stdDeviation="11.8"
+         result="blur" />
+      <feOffset
+         id="feOffset931"
+         dx="2.4"
+         dy="6.7"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite933"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-400.50206"
+     inkscape:cy="203.57282"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1373"
+     inkscape:window-height="845"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.97908738,-23.222107)">
+    <path
+       sodipodi:type="star"
+       style="fill:#000058;stroke:#3366cc;stroke-width:0.26458332;filter:url(#filter813)"
+       id="path640"
+       sodipodi:sides="5"
+       sodipodi:cx="111.50297"
+       sodipodi:cy="135.70416"
+       sodipodi:r1="95.683983"
+       sodipodi:r2="77.624496"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 179.16176,203.36296 -55.51565,9.01001 -55.582761,8.58625 L 42.339035,170.94495 16.997014,120.73589 56.61416,80.815355 96.534695,41.198208 146.74375,66.54023 l 50.01427,25.724313 -8.58624,55.582767 z"
+       inkscape:transform-center-x="1.159589"
+       inkscape:transform-center-y="-1.1595891"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Textebene"
+     transform="translate(0.97908738,-23.222107)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.06255341px;line-height:1.25;font-family:Gentium;-inkscape-font-specification:'Gentium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.32844907"
+       x="57.582958"
+       y="153.92879"
+       id="text647"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan645"
+         x="57.582958"
+         y="153.92879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.06255341px;font-family:Gentium;-inkscape-font-specification:'Gentium, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.32844907">ÖGD</tspan></text>
+  </g>
+</svg>
