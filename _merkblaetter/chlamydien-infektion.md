@@ -18,7 +18,6 @@ schutz: |
   - Kondom oder Dental Dams beim Oralsex
   Sexuell aktive Frauen bis 24 Jahre sollten jährlich ein Urintest durchführen. Diese Untersuchung wird üblicherweise von der Krankenkasse bezahlt.
 informationen: "Das örtliche Gesundheitsamt steht Ihnen für weitere Beratung zur Verfügung.  Ärztinnen und Ärzte beraten Sie insbesondere zu ihrer eigenen Erkrankung. Weitere (Fach-) Informationen finden Sie auch im Internet auf den [Seiten des Robert Koch-Institutes](https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/Ratgeber_Chlamydiosen_Teil1.html).
-Die Bundezentrale für gesundheitliche Aufklärung informiert auf ihrer Seite liebesleben.de über die Erkrankung https://www.liebesleben.de/fuer-alle/sexuell-uebertragbare-infektionen/chlamydien/  
+Die Bundezentrale für gesundheitliche Aufklärung informiert auf ihrer Seite [liebesleben.de](https://www.liebesleben.de/fuer-alle/sexuell-uebertragbare-infektionen/chlamydien/) über die Erkrankung."
 
-https://www.g-ba.de/downloads/17-98-2509/2009-10-19-Merkblatt-Chlamydienscreening.pdf"
 ---
