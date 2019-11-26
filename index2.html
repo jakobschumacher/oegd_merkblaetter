@@ -1,0 +1,16 @@
+---
+layout: home
+author_profile: false
+---
+
+Entwürfe für Merkblätter zum Schutz vor Infektionskrankheiten:<br><br>
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
