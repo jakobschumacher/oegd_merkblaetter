@@ -1,8 +1,6 @@
 ---
-layout: archive
-author_profile: false
-permalink: /about/
 title: Über diese Seite
+permalink: /about/
 ---
 
 ## Hintergrund und Ziel  

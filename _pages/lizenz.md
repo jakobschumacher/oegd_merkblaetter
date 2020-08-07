@@ -1,9 +1,8 @@
 ---
-layout: home
-author_profile: false
+title: Lizenz
 permalink: /lizenz/
 ---
-# Creative Commons Namensnennung-Nicht kommerziell 4.0 International Public License
+## Diese Seite ist mit der folgenden Lizenz versehen: Creative Commons Namensnennung-Nicht kommerziell 4.0 International Public License
 
 Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie sich rechtsverbindlich mit den Bedingungen dieser Creative Commons Namensnennung – Nicht kommerziell 4.0 International Public License (“Public License”) einverstanden. Soweit die vorliegende Public License als Lizenzvertrag anzusehen ist, gewährt Ihnen der Lizenzgeber die in der Public License genannten lizenzierten Rechte im Gegenzug dafür, dass Sie die Lizenzbedingungen akzeptieren, und gewährt Ihnen die entsprechenden Rechte in Hinblick auf Vorteile, die der Lizenzgeber durch das Verfügbarmachen des lizenzierten Materials unter diesen Bedingungen hat.
 

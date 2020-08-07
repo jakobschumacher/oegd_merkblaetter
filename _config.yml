@@ -277,6 +277,12 @@ compress_html:
 defaults:
   - scope:
       path: ""
+      type: "pages"
+    values:
+      author_profile: false
+      layout: archive
+  - scope:
+      path: ""
       type: merkblaetter
     values:
       layout: merkblatt

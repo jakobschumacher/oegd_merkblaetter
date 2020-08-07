@@ -1,7 +1,6 @@
 ---
-layout: home
-author_profile: false
-permalink: /impressum/
+title: Haftungsausschluss
+permalink: /disclaimer/
 ---
 ## Haftung für Inhalte
 Die Betreiberin dieser Webseite übernehmen keine Gewähr für die Aktualität, Richtigkeit oder Vollständigkeit der von ihnen bereitgestellten Informationen. Alle Angebote sind freibleibend und unverbindlich. Haftungsansprüche gegen die Betreiber, welche sich auf direkte oder indirekte Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen oder verlinkten Informationen verursacht wurden, sind grundsätzlich ausgeschlossen. Durch die Nutzung werden auch keine Rechte oder Pflichten zwischen den Betreibern und der Nutzerin oder dem Nutzer der Onlineangebote oder Dritten begründet. Die Betreiber behalten sich ausdrücklich vor, Teile der Angebote oder die gesamten Angebote ohne vorherige Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Die Inhalte stellen die persönliche Meinung der Autoren wieder.

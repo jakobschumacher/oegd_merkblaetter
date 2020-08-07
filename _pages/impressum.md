@@ -1,9 +1,8 @@
 ---
-layout: home
-author_profile: false
+title: Impressum
 permalink: /impressum/
 ---
-# Impressum
+
 ## Kontaktangaben
 Jakob Schumacher  
 Adresse: Teichstr. 64, 13407 Berlin  
