@@ -5,20 +5,20 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Merkblätter für Infektionskrankheiten"
+title                    : "Berliner Merkblätter für Infektionskrankheiten"
 title_separator          : "-"
 name                     : "Jakob Schumacher"
-description              : "Merkblätter für den öffentlichen Gesundheitsdienst"
+description              : "Berliner Merkblätter für den öffentlichen Gesundheitsdienst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/oegd_merkblaetter" # the subpath of your site, e.g. "/blog"
 repository               : "jakobschumacher/oegd_merkblaetter" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo2.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -217,8 +217,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
-
 # Plugins (previously gems:)
 plugins:
   # - jekyll-paginate
@@ -285,6 +283,7 @@ defaults:
       author_profile: false
       share: false
       comments: true
+      pagination: false
 
 github: [metadata]
 

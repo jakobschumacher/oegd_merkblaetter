@@ -3,7 +3,7 @@ layout: merkblatt
 title: Typhus-Paratyphus
 status: 03 Korrektur gelesen von AG
 ---
-Entwurfstatus: 03 Korrektur gelesen von AG
+
  
 ## Was ist Typhus und Paratyphus?
 

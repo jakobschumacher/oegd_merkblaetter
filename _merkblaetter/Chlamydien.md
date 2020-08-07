@@ -3,7 +3,7 @@ layout: merkblatt
 title: Chlamydien
 status: 03 Korrektur gelesen von AG
 ---
-Entwurfstatus: 03 Korrektur gelesen von AG
+
  
 # Merkblatt für Chlamydia trachomatis 
 

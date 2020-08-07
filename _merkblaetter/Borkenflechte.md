@@ -3,7 +3,7 @@ layout: merkblatt
 title: Borkenflechte
 status: 03 Korrektur gelesen von AG
 ---
-Entwurfstatus: 03 Korrektur gelesen von AG
+
  
 ## Was ist Borkenflechte?
 

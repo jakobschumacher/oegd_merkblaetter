@@ -3,7 +3,7 @@ layout: merkblatt
 title: Shigellose
 status: 05 Korrektur gelesen vom Lageso
 ---
-Entwurfstatus: 05 Korrektur gelesen vom Lageso
+
  
 ## Was ist eine Shigellose
 

@@ -3,7 +3,7 @@ layout: merkblatt
 title: Hepatitis-C
 status: 03 Korrektur gelesen von AG
 ---
-Entwurfstatus: 03 Korrektur gelesen von AG
+
  
 ## Was ist eine Hepatitis C-Erkrankung
 
