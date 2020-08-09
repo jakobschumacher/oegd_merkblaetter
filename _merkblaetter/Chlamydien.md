@@ -4,8 +4,8 @@ title: Chlamydien
 status: 03 Korrektur gelesen von AG
 ---
 
- 
-# Merkblatt für Chlamydia trachomatis 
+
+# Merkblatt für Chlamydia trachomatis
 
 ## Was ist eine Chlamydia trachomatis-Erkrankung
 
