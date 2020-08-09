@@ -3,7 +3,7 @@ layout: merkblatt
 title: Echinococcus
 status: 03 Korrektur gelesen von AG
 ---
-
+Entwurfstatus: 03 Korrektur gelesen von AG
  
 ## Was ist eine Echinokokkose?
 
@@ -30,7 +30,7 @@ können sich anstecken, wenn sie die Eier in den Mund bekommen. Dies
 passiert z.B. über kontaminierte Felle, verunreinigte Nahrung oder
 verunreinigte Hände. Es erfolgt keine Übertragung von Mensch zu Mensch.
 
-Welche Krankheitszeichen haben Erkrankte?
+## Welche Krankheitszeichen haben Erkrankte?
 
   - > Der Hundebandwurm kann die Leber befallen, dies passiert bei
     > ungefähr 6 von 10 Menschen. Der Hundebandwurm kann auch die Lunge

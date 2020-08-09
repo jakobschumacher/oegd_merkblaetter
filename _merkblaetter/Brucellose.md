@@ -1,25 +1,25 @@
 ---
 layout: merkblatt
 title: Brucellose
-status: 05 Korrektur gelesen vom Lageso
+status: 07 Rechtschreibung
 ---
-
+Entwurfstatus: 07 Rechtschreibung
  
-## Was ist eine Brucellose
+## Was ist eine Brucellose?
 
 Brucellose ist eine Erkrankung durch Bakterien (Brucellen). Die
-Erkrankung kommt weltweit vor. Die Krankheit ist häufig im
+Erkrankung kommt weltweit vor. Die Krankheit gibt es häufig im
 Mittelmeerraum, in Asien, in Afrika, in Mittel- und Südamerika. Die
 Erkrankung wird von Haus- und Nutztieren auf den Menschen übertragen.
 Sie verläuft häufig unbemerkt, kann in seltenen Fällen aber auch zum
 Tode führen. In Deutschland werden üblicherweise weniger als 40
 Erkrankungsfälle pro Jahr gemeldet.
 
-## Wie wird eine Brucellose übertragen
+## Wie wird eine Brucellose übertragen?
 
 Brucellen kommen üblicherweise bei Rindern, Ziegen, Schafen,
-Hausschweinen, Wildschweinen und Hunden vor. In Deutschland sind Tiere
-frei von Brucellen, da Nutztiere hier kontrolliert werden. Ansteckungen
+Hausschweinen, Wildschweinen und Hunden vor. In Deutschland sind
+Nutztiere frei von Brucellen, da sie kontrolliert werden. Ansteckungen
 erfolgen überwiegend im Ausland. Die wichtigste Infektionsquelle für den
 Menschen ist nicht ausreichend erhitzte Milch und deren Produkte, wie
 z.B. Rohmilchkäse. Personen können auch erkranken, wenn sie ungenügend
@@ -35,22 +35,22 @@ Die Brucellose hat sehr viele unterschiedliche Verläufe. Neun von zehn
 infizierten Personen haben keine Krankheitszeichen. Akut erkrankte
 Personen haben Fieber, Übelkeit, Müdigkeit, Nachtschweiß. Langfristige
 Verläufe können sehr verschiedene Krankheitszeichen hervorrufen und fast
-jedes Organ betreffen, zum Beispiel Auge, Gelenke, Herz, Leber,
+jedes Organ betreffen, zum Beispiel Augen, Gelenke, Herz, Leber,
 Bauchspeicheldrüse, Bauchfell, Hirnhäute, Knochenmark. Wird eine
 Brucellose frühzeitig erkannt und behandelt heilt die Erkrankung im
 Regelfall problemlos aus.
 
 ## Wann bricht die Erkrankung aus und wie lange ist man ansteckend?
 
-Die Erkrankung bricht zwischen 5 und 60 Tagen nach der Infektion aus.
+Die Erkrankung bricht zwischen 5 und 60 Tagen nach der Ansteckung aus.
 Eine direkte Übertragung von Brucellen zwischen Personen ist sehr
 selten.
 
 ## Wer ist besonders gefährdet?
 
-Besonders gefährdet sind Personen, die im Ausland kontaminierte
+Besonders gefährdet sind Personen, die im Ausland verunreinigte
 tierische Lebensmittel verzehren (unpasteurisierte Milch, Rohmilchkäse
-oder nicht ausreichend erhitztes Fleisch) . Auch beim direkten Kontakt
+oder nicht ausreichend erhitztes Fleisch). Auch beim direkten Kontakt
 mit erkrankten Tieren ist eine Ansteckung möglich, dies betrifft zum
 Beispiel Tierärzt\*innen.
 
@@ -75,11 +75,10 @@ Beispiel Tierärzt\*innen.
   - > Vermeiden Sie im Ausland direkten Kontakt zu Hunden, Rindern,
     > Ziegen, Schafen, Hausschweinen und Wildschweinen. Dies gilt ganz
     > besonders in Ländern, in denen Brucellose häufig ist, wie z.B. im
-    > Mittelmeerraum, in der Türkei, der Arabischen Halbinsel, Afrika,
-    > Asien, Mittel - und Südamerika. Wenn das nicht möglich ist,
-    > versuchen Sie sich nach dem Kontakt mit dem Tier nicht in die
-    > Augen oder den Mundbereich zu fassen und waschen Sie sich die
-    > Hände mit Seife.
+    > Mittelmeerraum, der Arabischen Halbinsel, Afrika, Asien, Mittel -
+    > und Südamerika. Wenn das nicht möglich ist, versuchen Sie sich
+    > nach dem Kontakt mit dem Tier nicht in die Augen oder den
+    > Mundbereich zu fassen und waschen Sie sich die Hände mit Seife.
 
   - > Vermeiden Sie Rohmilch und Produkte in Ländern, in denen die
     > Erkrankung noch weit verbreitet ist. Rohmilch ist jede Milch, die
@@ -89,15 +88,15 @@ Beispiel Tierärzt\*innen.
   - > Essen Sie nur ausreichend erhitztes Fleisch.
 
   - > Personen, die beruflich in Kontakt mit möglicherweise infizierten
-    > Rindern, Ziegen, Schafen, Hausschweine, Wildschweinen und Hunden
+    > Rindern, Ziegen, Schafen, Hausschweinen, Wildschweinen und Hunden
     > kommen, sollten Handschuhe tragen. Nach Kontakt sollten sie sich
     > die Hände desinfizieren. Salben können einen zusätzlichen Schutz
     > bieten. Es sollte Arbeitskleidung getragen werden.
 
 ## Wo kann ich mich informieren?
 
-Ihre Hausärztin oder ihr Hausarzt kann Ihnen kompetent weiterhelfen. Das
-örtliche Gesundheitsamt steht Ihnen für weitere Beratung zur Verfügung.
-Weitere (Fach-) Informationen finden Sie auch im Internet auf den Seiten
-des Robert Koch-Institutes
-()https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/Ratgeber\_Brucellose.html.
+Ihr\*e Hausärzt\*in kann Ihnen kompetent weiterhelfen. Das örtliche
+Gesundheitsamt steht Ihnen für weitere Beratung zur Verfügung. Weitere
+Informationen finden Sie auch im Internet auf den Seiten des Robert
+Koch-Institutes
+([<span class="underline">https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/Ratgeber\_Brucellose.html</span>](https://www.rki.de/DE/Content/Infekt/EpidBull/Merkblaetter/Ratgeber_Brucellose.html)).

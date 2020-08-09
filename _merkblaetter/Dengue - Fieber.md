@@ -1,53 +1,57 @@
 ---
 layout: merkblatt
 title: Dengue - Fieber
-status: 03 Korrektur gelesen von AG
+status: 05 Korrektur gelesen vom Lageso
 ---
-
+Entwurfstatus: 05 Korrektur gelesen vom Lageso
  
 ## Was ist Dengue-Fieber?
 
-Dengue-Fieber wird durch sogenannte Dengue-Viren hervorgerufen. Die
-Erkrankung wird nur von bestimmten Stechmücken übertragen. Dengue-Fieber
-tritt in den Tropen und Subtropen aller Kontinente auf. In Asien,
-Lateinamerika und Afrika ist es weit verbreitet. In betroffenen Regionen
-kann es zu großen Krankheitsausbrüchen kommen.In Deutschland kann man
-sich nicht infizieren. Bei etwa 700 Fälle von Menschen, die von einer
-Reise zurückkehren, wird Dengue-Fieber in Deutschland gefunden. Es gibt
-vier verschiedene Typen von Dengue-Viren.
+Dengue-Fieber wird durch sogenannte Dengue-Viren hervorgerufen. Es gibt
+vier verschiedene Typen von Dengue-Viren. Die Erkrankung wird nur von
+bestimmten Stechmücken übertragen. Dengue-Fieber tritt in den Tropen und
+Subtropen aller Kontinente auf. In Asien, Lateinamerika und Afrika ist
+es weit verbreitet. In betroffenen Regionen kann es zu großen
+Krankheitsausbrüchen kommen. In Deutschland werden etwa 700
+Dengue-Fieber Erkrankungen pro Jahr gemeldet, dabei haben sich alle
+Betroffenen zuvor im Ausland aufgehalten.
 
 ## Wie wird Dengue-Fieber übertragen?
 
-Dengue-Fieber wird nur von Stechmücken übertragen. Übertragungen von
-Mensch zu Mensch erfolgen nicht. Die Mücken sind in der Regel tagaktiv,
-sie können aber auch in der Nacht bei eingeschaltetem Licht aktiv sein.
+Dengue-Fieber wird nur durch den Stich von bestimmten Stechmücken
+übertragen. Die Stechmücken gehören zur Gruppe der Aedes Mücken, z.B.
+der Asiatischen Tigermücke. Diese kommen in Deutschland kaum vor. Die
+Mücken sind in der Regel tagaktiv, sie können aber auch in der Nacht
+bei eingeschaltetem Licht aktiv sein. Übertragungen von Mensch zu Mensch
+erfolgen nicht.
 
 ## Welche Krankheitszeichen haben Erkrankte?
 
 Die meisten Menschen erkranken ohne Krankheitszeichen oder entwickeln
 nur eine milde Erkrankung.
 
-Bei einer Erkrankung kommt es im Regelfall zu grippeähnlichen Symptomen
-(hohes Fieber, Hautausschlag, starke Kopf-, Knochen- und
-Gliederschmerzen). Diese akute Phase klingt nach fünf bis sieben Tagen
-ab. Es kann zu Einblutungen in die Haut oder Schleimhaut kommen. Die
-Heilung kann sich über Wochen hinziehen.
+Bei einer Erkrankung kommt es im Regelfall zu grippeähnlichen
+Krankheitszeichen, zum Beispiel hohes Fieber, Hautausschlag, starke
+Kopfschmerzen und Gliederschmerzen. Diese erste Phase klingt nach zwei
+bis sieben Tagen ab. Es kann zu leichten Einblutungen in die Haut oder
+Schleimhaut kommen. Die Heilung kann sich über Wochen hinziehen.
 
-Sehr selten tritt eine schwere Verlaufsform auf, das sogenannte Dengue
-Hämorrhagisches Fieber. Diese Verlaufsform kann tödlich sein.
+Sehr selten tritt drei bis sieben Tage nach Auftreten der erste Symptome
+eine schwere Verlaufsform auf. Dabei können starke Blutungen und ein
+Kreislaufschock entstehen. Die Verlaufsform heißt Dengue Hämorrhagisches
+Fieber und kann tödlich sein.
 
 Man kann an allen vier Dengue-Typen erkranken. Wenn man an einem
-Dengue-Typ erkrankt ist kann man diesen Dengue-Typ nicht erneut
-bekommen, aber einen anderen Dengue-Typ. Wenn man ein zweites Mal an
-Dengue-Fieber erkrankt, ist die Chance höher, dass man ein Dengue
-Hämorrhagisches Fieber bekommt.
+Dengue-Typ erkrankt ist kann man diesen Dengue-Typ vermutlich nicht
+erneut bekommen, aber einen anderen Dengue-Typ. Wenn man ein zweites Mal
+an Dengue-Fieber erkrankt, ist die Chance geringfügig höher, dass man
+ein Dengue-Hämorrhagisches Fieber bekommt.
 
 ## Wann bricht die Krankheit aus und wie lange ist man ansteckend?
 
-Vom Stich der Mücke bis zu den ersten Krankheitszeichen vergehen 3 bis
-14 Tage. Man kann die Erkrankung nur über bestimmte Stechmücken
-weitergeben. Diese Stechmücken gibt es in Deutschland im Regelfall
-nicht.
+Vom Stich der Mücke bis zu den ersten Krankheitszeichen vergehen in der
+Regel zwischen 4 und 7 Tagen. Die Zeitspanne kann aber auch 3 bis 14
+Tage sein.
 
 ## Wer ist besonders gefährdet?
 
@@ -58,14 +62,16 @@ Subtropen ärztlich beraten lassen.
 
 ## Was muss ich bei einer Erkrankung beachten?
 
-  - > An Dengue-Fieber erkrankte Personen sollten ärztlich behandelt
-    > werden.
+  - > Personen, die vermuten an Dengue-Fieber erkrankt zu sein, sollten
+    > sich in ärztliche Behandlung begeben.
 
-## Wie kann ich mich schützen?
+  - > In Deutschland sind keine Maßnahmen zur Absonderung notwendig
 
   - > Personen, die von einer Reise aus den Tropen oder Subtropen
     > zurückkommen und erkranken, sollten ihre Ärztin oder ihren Arzt
     > auf die Reise hinweisen.
+
+## Wie kann ich mich schützen?
 
   - > Bei Reisen in Tropen oder Subtropen sollte man Schutzmaßnahmen
     > gegen Stechmücken ergreifen. Das heißt man sollte möglichst
@@ -75,15 +81,15 @@ Subtropen ärztlich beraten lassen.
     > Moskitonetze verwendet werden.
 
   - > Seit 2018 ist ein Impfstoff gegen alle vier Dengue-Typen
-    > zugelassen für Personen im Alter von 9 bis 45 Jahren, die in einem
-    > betroffenen Gebiet leben und zuvor bereits ein Dengue-Fieber
-    > durchgemacht haben.
+    > zugelassen. Dieser ist gedacht für Personen im Alter von 9 bis 45
+    > Jahren, die in einem betroffenen Gebiet leben und zuvor bereits
+    > ein Dengue-Ansteckung durchgemacht haben.
 
 ## Wo kann ich mich informieren?
 
-Weitere Beratung und Information erhalten Sie bei Ihrer/m behandelnden
+Weitere Beratung und Information erhalten Sie bei Ihrer\*m behandelnden
 Arzt\*in und dem örtlichen Gesundheitsamt. Weitere Fachinformationen
 finden Sie im Internet auf den Seiten des Robert Koch-Institutes
 (www.rki.de/dengue). Das Auswärtige Amt hat medizinische Hinweise für
-die viele Länder zusammengestellt
+viele Länder zusammengestellt
 ([<span class="underline">https://www.auswaertiges-amt.de/de/aussenpolitik/laender</span>](https://www.auswaertiges-amt.de/de/aussenpolitik/laender))

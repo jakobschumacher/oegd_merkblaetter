@@ -1,20 +1,19 @@
 ---
 layout: merkblatt
 title: Typhus-Paratyphus
-status: 03 Korrektur gelesen von AG
+status: 04 BZgA-Stil-überprüft
 ---
-
+Entwurfstatus: 04 BZgA-Stil-überprüft
  
 ## Was ist Typhus und Paratyphus?
 
 Typhus und Paratyphus sind ansteckende Krankheiten. Typhus wird durch
 das Bakterium Salmonella typhi verursacht, Paratyphus durch Salmonella
-paratyphi. Beide Erkrankungen sind weltweit verbreitet. In Deutschland
-werden jährlich etwa 100 Typhus und Paratyphus Erkrankungen gemeldet. In
-Deutschland treten die Erkrankungen fast immer im Zusammenhang mit einer
-Reise auf. In Afrika, Südamerika und Südostasien ist die Erkrankung
-häufig, insbesondere in Indien, Pakistan und Bangladesh. Die Erreger
-können resistent gegen Antibiotika werden.
+paratyphi. Beide Erkrankungen sind weltweit verbreitet. In Afrika,
+Südamerika und Südostasien ist die Erkrankung häufig, insbesondere in
+Indien, Pakistan und Bangladesh. In Deutschland werden jährlich etwa 100
+Typhus und Paratyphus Erkrankungen gemeldet. In Deutschland treten die
+Erkrankungen fast immer im Zusammenhang mit einer Reise auf.
 
 ## Wie wird Typhus und Paratyphus übertragen?
 
@@ -82,16 +81,16 @@ einem Jahr.
     > nicht mehr ausgeschieden wird. Den genauen Zeitraum des Verbots
     > oder Ausnahmen bestimmt das zuständige Gesundheitsamt.
 
+  - > Erkrankte Personen dürfen vorübergehend nicht bei der beruflichen
+    > Erzeugung von Lebensmitteln beteiligt sein. Dies ist im
+    > Infektionsschutzgesetz festgelegt. Die genau Dauer des Verbots
+    > oder Ausnahmen bestimmt das zuständige Gesundheitsamt.
+
   - > Personen, die mit einer erkrankten Person im selben Haushalt
     > leben, unterliegen den Regelungen des Infektionsschutzgesetzes.
     > Sie dürfen Gemeinschaftseinrichtungen wie Schulen oder
     > Kindergärten vorübergehend nicht besuchen. Den genauen Zeitraum
     > des Verbots oder Ausnahmen bestimmt das zuständige Gesundheitsamt.
-
-  - > Erkrankte Personen dürfen vorübergehend nicht bei der beruflichen
-    > Erzeugung von Lebensmitteln beteiligt sein. Dies ist im
-    > Infektionsschutzgesetz festgelegt. Die genau Dauer des Verbots
-    > oder Ausnahmen bestimmt das zuständige Gesundheitsamt.
 
 ## Wie kann ich mich schützen?
 

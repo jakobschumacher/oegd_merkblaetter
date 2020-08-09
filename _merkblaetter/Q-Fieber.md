@@ -1,70 +1,62 @@
 ---
 layout: merkblatt
 title: Q-Fieber
-status: 03 Korrektur gelesen von AG
+status: 04 BZgA-Stil-überprüft
 ---
-
+Entwurfstatus: 04 BZgA-Stil-überprüft
  
-## Was ist Q - Fieber
+## Was ist Q-Fieber
 
-Q-Fieber wird durch Bakterien mit dem Namen Coxiella burnetii
-hervorgerufen. Das Bakterium kommt weltweit vor. Üblicherweise ist das
-Bakterium in Schafen und Ziegen zu finden. Auch Rinder, Katzen, Hunde,
-Kaninchen, Wildtiere und Vögel können den Erreger in sich tragen. Die
-Tiere erkranken üblicherweise. Zecken können zum einen den Erreger in
-sich tragen, als ihn auch von einem Tier zum anderen übertragen. Das
-Bakterium ist in der Umwelt sehr widerstandsfähig. Es kann z.B.
-jahrelang in Staub überleben. In Deutschland kommt es hin und wieder zu
-Ausbrüchen. Normalerweise finden diese Ausbrüche in ländlichen Gebieten
-statt.
+Q-Fieber ist eine Krankheit, die von Tieren auf Menschen übertragen
+werden kann. Die Krankheit wird durch Bakterien mit dem Namen Coxiella
+burnetii hervorgerufen. Das Bakterium kommt fast überall auf der Welt
+vor. In Deutschland werden ungefähr 100 Fälle pro Jahr gemeldet. In
+ländlichen Gebieten kommt es gelegentlich zu einer Ansteckung von
+vielen Leuten auf einmal.
 
 ## Wie wird das Q - Fieber übertragen
 
-  - > Menschen können sich durch Einatmen von Stäuben, die den Erreger
-    > enthalten, anstecken.
+Üblicherweise ist das Bakterium in Schafen und Ziegen zu finden. Auch
+Rinder, Katzen, Hunde, Kaninchen, Wildtiere und Vögel können das
+Bakterium in sich tragen. Das Bakterium ist in der Umwelt sehr
+widerstandsfähig. Es kann z.B. jahrelang in Staub überleben.
 
-  - > Der direkte Kontakt mit einem erkrankten Tier kann zu einer
-    > Infektion beim Menschen führen.
+  - > Menschen können sich anstecken, wenn sie Staub einatmen, der den
+    > Erreger enthält.
 
-  - > In seltenen Fällen kann das Bakterium auch über Lebensmittel, wie
-    > z.B. durch das Verarbeiten von Fleisch, Rohmilch oder Rohmilchkäse
-    > von betroffenen Tieren weitergegeben werden.
+  - > Menschen können sich anstecken, wenn sie ein erkranktes Tier
+    > berühren.
+
+  - > In seltenen Fällen kann das Bakterium auch über Lebensmittel
+    > übertragen werden. Zum Beispiel durch Fleisch, Rohmilch oder
+    > Rohmilchkäse von betroffenen Tieren.
 
   - > Q-Fieber wird nur in Ausnahmefällen von einem Menschen zum anderen
-    > übertragen, z.B. bei Bluttransfusionen oder
+    > übertragen, z.B. bei der Geburt, bei Bluttransfusionen oder
     > Knochenmarktransplantationen.
 
-Welche Krankheitszeichen haben Erkrankte?
+## Welche Krankheitszeichen haben Erkrankte?
 
-Etwa die Hälfte aller Menschen haben keine oder nur milde grippeähnliche
-Krankheitszeichen. Wenn eine akute Infektion auftritt, dann äußert sie
-sich in hohem Fieber, Schüttelfrost und Kopfschmerzen. Im weiteren
-Verlauf kann es zu einer Lungenentzündung oder Leberentzündung oder noch
-seltener zu einer Herzmuskelentzündung oder Hirnhautentzündung kommen.
-In seltenen Fällen ist die Erkrankung anhaltend und schädigt die
-Herzinnenhaut oder andere Organe. Dies betrifft insbesondere Personen
-mit einer vorbestehenden Erkrankung der Herzklappe oder einem
-geschwächten Abwehrsystem. Schwangere haben, wenn sie erkranken, ein
-hohes Risiko, ihr Kind zu verlieren oder für eine Frühgeburt. Dies gilt
-besonders für das erste Drittel in der Schwangerschaft.
+Etwa die Hälfte aller Menschen haben keine oder nur milde
+Krankheitszeichen. Menschen, die erkranken haben meist hohes Fieber,
+Schüttelfrost und Kopfschmerzen. Im weiteren Verlauf kann es zu einer
+Lungenentzündung oder Leberentzündung oder noch seltener zu einer
+Herzmuskelentzündung oder Hirnhautentzündung kommen. In seltenen Fällen
+ist die Erkrankung anhaltend und schädigt die Herzinnenhaut oder andere
+Organe. Dies betrifft insbesondere Personen mit einer vorbestehenden
+Erkrankung der Herzklappe oder einem geschwächten Abwehrsystem.
+Schwangere haben, wenn sie erkranken, ein hohes Risiko, ihr Kind zu
+verlieren oder eine Frühgeburt zu bekommen. Dies gilt besonders für das
+erste Drittel in der Schwangerschaft.
 
-Wann bricht die Erkrankung aus und wie lange ist man ansteckend?
+## Wann bricht die Erkrankung aus und wie lange ist man ansteckend?
 
-Die Erkrankung beginnt in der Regel 2-3 Wochen nach der Aufnahme des
-Bakteriums. Personen, die besonders viele Erreger aufgenommen haben,
-erkranken schneller. Behandelt wird die Erkrankung mit einem
-Antibiotikum. Eine Ansteckung von Mensch zu Mensch ist nur unter
-besonderen Umständen (s.u.) möglich.
+Die Erkrankung beginnt in der Regel 2 bis 3 Wochen nach der Aufnahme des
+Bakteriums. Personen, die besonders viele Bakterien aufgenommen haben,
+erkranken schneller als Personen, die wenig Bakterien aufgenommen haben.
+Menschen sind üblicherweise nicht ansteckend.
 
 ## Wer ist besonders gefährdet?
-
-  - > Schwangere und Babys im Mutterleib sind besonders gefährdet,
-    > ebenso Personen mit Herzklappenfehlern und Personen mit einem
-    > geschwächten Abwehrsystem.
-
-  - > Frauenärztliches Personal kann sich bei einer erkrankten
-    > Schwangeren während der Geburt oder dem neugeborenen Baby
-    > anstecken.
 
   - > Personen, die Umgang mit Tieren haben, kommen häufiger in Kontakt
     > mit dem Bakterium. Daraus folgt, dass sie auch häufiger erkranken.
@@ -77,10 +69,12 @@ besonderen Umständen (s.u.) möglich.
     > wohnen, und den Staub aus deren Umgebung einatmen, erkranken
     > häufiger als solche, die weiter entfernt wohnen.
 
-  - > Es besteht ein Risiko für Personal, das im Labor mit dem Erreger
-    > arbeitet.
+  - > Besonders gefährdet sind: Schwangere und Babys im Mutterleib,
+    > Personen mit Herzklappenfehlern, Personen mit einem geschwächten
+    > Abwehrsystem. Alle diese Personen haben ein erhöhtes Risiko
+    > schwere Verläufe und Komplikationen zu entwickeln.
 
-Was muss ich bei einer Erkrankung beachten?
+## Was muss ich bei einer Erkrankung beachten?
 
   - > Schwangere, Menschen mit Herzklappenschädigungen und Menschen mit
     > einem geschwächten Abwehrsystem müssen sich bei einer
@@ -96,9 +90,7 @@ Was muss ich bei einer Erkrankung beachten?
     > können einen normalen Umgang mit ihren Mitmenschen pflegen.
 
   - > Wenn Sie Kontakt zu einem an Q-Fieber erkrankten Tier hatten,
-    > sollten mit dem örtlichen Gesundheitsamt in Kontakt treten. Dies
-    > gilt auch, wenn Sie möglicherweise Teil eines Ausbruchsgeschehen
-    > sind.
+    > sollten mit dem örtlichen Gesundheitsamt in Kontakt treten.
 
 ## Wie kann ich mich schützen?
 
@@ -120,4 +112,8 @@ Ihre Hausärztin oder ihr Hausarzt kann Ihnen kompetent weiterhelfen.
 Fachärztinnen oder Fachärzte für Infektiologie sind auf die Erkrankung
 spezialisiert. Das örtliche Gesundheitsamt steht Ihnen für Beratung zur
 Verfügung. Weitere Informationen finden Sie auch im Internet auf den
-Seiten des Robert Koch-Institutes.
+Seiten des Robert Koch-Institutes. Empfehlungen für Hygiene bei der
+Haltung von Wiederkäuern finden Sie auf den
+[<span class="underline">Seiten des Bundesministerium für Landwirtschaft
+und
+Ernährung</span>](https://www.bmel.de/DE/Tier/Tiergesundheit/_texte/EmpfehlungenHygiene.html).

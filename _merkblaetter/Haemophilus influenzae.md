@@ -1,21 +1,21 @@
 ---
 layout: merkblatt
 title: Haemophilus influenzae
-status: 03 Korrektur gelesen von AG
+status: 04 BZgA-Stil-überprüft
 ---
-
+Entwurfstatus: 04 BZgA-Stil-überprüft
  
 ## Was ist Haemophilus influenzae?
 
 Das Bakterium Haemophilus influenzae verursacht eine Vielzahl von
-schweren Krankheitsbildern wie Entzündungen der Hirnhaut, des
-Kehlkopfdeckels, der Lunge, des Knochen- und Muskelgewebes sowie
-Blutvergiftungen. Es gibt verschiedene Typen des Bakteriums. Haemophilus
-influenzae Typ b-Bakterien waren bis zur Einführung der Schutzimpfung
-der häufigste Erreger der Hirnhautentzündung. Im Jahr 1990 wurde in
-Deutschland von der Ständigen Impfkommission (STIKO) eine allgemeinen
-Impfempfehlung gegen Haemophilus influenzae Typ b für Säuglinge
-eingeführt. Seitdem gibt es sehr viel weniger Fälle von diesem Typ.
+schweren Krankheiten wie Entzündungen der Hirnhaut, des Kehlkopfdeckels,
+der Lunge, des Knochen- und Muskelgewebes sowie Blutvergiftungen. Es
+gibt verschiedene Typen des Bakteriums. Haemophilus influenzae Typ
+b-Bakterien waren bis zur Einführung der Schutzimpfung der häufigste
+Erreger der Hirnhautentzündung. Im Jahr 1990 wurde in Deutschland von
+der Ständigen Impfkommission (STIKO) eine allgemeinen Impfempfehlung
+gegen Haemophilus influenzae Typ b für Säuglinge eingeführt. Seitdem
+gibt es sehr viel weniger Fälle von diesem Typ.
 
 ## Wie wird Haemophilus influenzae übertragen?
 
@@ -76,6 +76,15 @@ Besonders häufig erkranken Kinder unter 5 Jahren, ältere Menschen über
     > nach dem Niesen oder Naseputzen. Trocknen Sie die Hände nach dem
     > Waschen sorgfältig mit einem sauberen Tuch ab.
 
+  - > Es gelten die Regelungen des Infektionsschutzgesetzes. Erkrankte
+    > Personen dürfen Gemeinschaftseinrichtungen wie Schulen oder
+    > Kindergärten vorübergehend nicht besuchen. Bei betroffenen Kinder
+    > müssen Eltern die Gemeinschaftseinrichtung über die Erkrankung
+    > ihres Kindes informieren. In der Regel kann die Einrichtung wieder
+    > besucht werden entweder einen Tag nach einer Behandlung mit einem
+    > Antibiotikum. Den genauen Zeitpunkt bestimmt das zuständige
+    > Gesundheitsamt.
+
 ## Wie kann ich mich schützen?
 
 Impfung:
@@ -107,7 +116,7 @@ Nach Kontakt mit Erkrankten:
 
   - > Alle unzureichend geimpften Kinder sollten nach dem Kontakt zu
     > einer an Haemophilus influenzae Typ b erkrankten Person die
-    > Impfung/en so schnell wie möglich nachholen.
+    > Impfung so schnell wie möglich nachholen.
 
   - > Das zuständige Gesundheitsamt kann die betroffenen Personen
     > bezüglich der vorbeugenden Maßnahmen beraten.

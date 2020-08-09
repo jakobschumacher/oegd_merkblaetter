@@ -1,23 +1,23 @@
 ---
 layout: merkblatt
 title: Ornithose
-status: 03 Korrektur gelesen von AG
+status: 04 BZgA-Stil-überprüft
 ---
-
+Entwurfstatus: 04 BZgA-Stil-überprüft
  
 ## Was ist eine Ornithose?
 
 Ornithose ist eine ansteckende Krankheit. Diese Krankheit wird durch ein
-Bakterium mit dem Namen Chlamydophila psittaci verursacht. Insbesondere
-Papageienvögel und Sittiche können infiziert sein. Die Krankheit wird
-daher auch Papageienkrankheit oder Psittakose genannt. Aber auch Möwen,
-Tauben und andere Vögel können betroffen sein. Betroffene Vögel können
-erkranken. Es gibt aber auch völlig gesund wirkende Vögel, die das
-Bakterium in sich tragen. Von den Vögeln können die Bakterien auf den
-Menschen übertragen werden. Die Erkrankung kommt weltweit vor. In
-Deutschland ist die Erkrankung sehr selten.
+Bakterium mit dem Namen Chlamydophila psittaci verursacht. Die Krankheit
+wird auch Papageienkrankheit oder Psittakose genannt. Die Erkrankung
+kommt weltweit vor. In Deutschland ist die Erkrankung sehr selten.
 
 ## Wie wird eine Ornithose übertragen?
+
+Insbesondere Papageienvögel und Sittiche können den Erreger in sich
+tragen. Auch Möwen, Tauben und andere Vögel können betroffen sein.
+Betroffene Vögel können erkranken. Es gibt aber auch völlig gesund
+wirkende Vögel, die das Bakterium in sich tragen.
 
 Das Bakterium wird von betroffenen Vögeln auf den Menschen übertragen.
 Körperflüssigkeiten, Exkremente, Federn und die Einstreu von
@@ -45,11 +45,20 @@ Erregers aus. Erkrankte Menschen sind üblicherweise nicht ansteckend.
 ## Wer ist besonders gefährdet?
 
 Menschen, die viel Kontakt zu Vögeln, insbesondere Papageienvögeln und
-Sittichen haben, sind besonders gefährdet. Das betrifft zum Beispiel
-Personen, die Vögel halten oder züchten. Ebenfalls häufig betroffen sind
+Sittichen haben, erkranken häufiger. Das betrifft zum Beispiel Personen,
+die Vögel halten oder züchten. Ebenfalls häufiger betroffen sind
 Tierärztinnen und Tierärzte.
 
 ## Was muss ich bei einer Erkrankung beachten?
+
+  - > Erkrankte Personen bei denen eine Ornithose nachgewiesen wurde
+    > sollten sich ärztlich behandeln lassen. Ornithose wird
+    > üblicherweise mit einem Antibiotikum behandelt.
+
+  - > Wenn ein Mensch erkrankt, sollten alle Vögel zu denen Kontakt
+    > bestand untersucht werden.
+
+## Wie kann ich mich schützen?
 
   - > Menschen, die viel Kontakt zu Vögeln haben und eine
     > Lungenentzündung oder ein unklares Fieber bekommen, sollten auf
@@ -57,17 +66,10 @@ Tierärztinnen und Tierärzte.
     > wenn der Vogel krank war und aus der Familie der Papageienvögel
     > oder Sittiche stammt.
 
-  - > Die Ornithose wird üblicherweise mit einem Antibiotikum behandelt.
-
-  - > Wenn ein Mensch erkrankt, sollten alle Vögel zu denen Kontakt
-    > bestand untersucht werden.
-
-## Wie kann ich mich schützen?
-
-Tierhalterinnen und Tierhalter von Vögeln sollten tiermedizinische
-Hygienemaßnahmen einhalten. Wichtig ist insbesondere die Absonderung von
-kranken und neuen Tieren. Auch eine ordnungsgemäße Reinigung und Aufbau
-der Ställe ist wichtig.
+  - > Tierhalterinnen und Tierhalter von Vögeln sollten tiermedizinische
+    > Hygienemaßnahmen einhalten. Wichtig ist insbesondere die
+    > Absonderung von kranken und neuen Tieren. Auch eine ordnungsgemäße
+    > Reinigung und Aufbau der Ställe ist wichtig.
 
 ## Wo kann ich mich informieren?
 
