@@ -1,3 +1,3 @@
 # Merkblätter für den Öffentlichen Gesundheitsdienst
-![Logo](assets/images/logo.png?raw=true "Logo" | width=250)
+<img src="assets/images/logo.png" width="200" height="200" alt="Logo"/>
 Repository für die [Webseite der Merkblätter für Infektionskrankheiten für den Öffentlichen Gesundheitsdienst](https://jakobschumacher.github.io/oegd_merkblaetter/).
