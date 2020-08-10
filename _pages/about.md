@@ -4,26 +4,35 @@ permalink: /about/
 ---
 
 ## Verwendung
+Der Text kann zur gesundheitlichen Aufklärung von Personen mit Infektionskrankheiten verwendet werden, zum Beispiel bei der Ermittlung nach dem Infektionsschutzgesetz.
+* Empfohlene Verwendung: Kopie des Textes und Einbettung in ein eigenes Dokument. Dann Anpassung an die eigenen Erfordernisse und möglicherweise Korrektur von Fehlern. Bitte einen kleinen Hinweis auf diese Seite mit einfügen (siehe [Lizenz]({{ 'lizenz/' | relative_url }}))
+* Weitergabe des Links an die betroffene Person
 
-## Hintergrund und Ziel  
-Der öffentliche Gesundheitsdienst will die Weiterverbreitung von Erregern verhindern. Wenn eine Person an einer meldepflichtigen Infektionskrankheit erkrankt, ermittelt das zuständige Gesundheitsamt. Dabei können Merkblätter den Ämtern helfen, die erkrankte Person gut zu informieren.
+## Ziel und Hintergrund
+Der öffentliche Gesundheitsdienst will die Weiterverbreitung von Erregern verhindern, diese Merkblätter sollen dabei helfen. Wenn eine Person an einer meldepflichtigen Infektionskrankheit erkrankt, ermittelt das zuständige Gesundheitsamt. Dabei können Merkblätter zur Information der erkrankten Person verwendet werden.
 
-Für bestimmte Infektionskrankheiten gibt es Merkblätter auf der Seite [infektionsschutz.de](https://www.infektionsschutz.de/erregersteckbriefe/), die Erregersteckbriefe genannt werden. Diese Erregersteckbriefe werden vom Bundesverband für den öffentlichen Gesundheitsdienst ([BVÖGD](https://bvoegd.de)), dem Robert Koch-Institut ([RKI](https://www.rki.de)) und der Bundeszentrale für Gesundheitliche Aufklärung ([BzGA](https://www.bzga.de)) geprüft und veröffentlicht. Die Merkblätter auf dieser Seite ergänzen das Angebot der Erregersteckbriefe. Unsere Wunschvorstellung ist es, dass diese Merkblätter zu einem Erregersteckbrief werden.
+Für bestimmte Infektionskrankheiten gibt es Merkblätter auf der Seite [www.infektionsschutz.de](https://www.infektionsschutz.de/erregersteckbriefe/). Diese Merkblätter werden Erregersteckbriefe genannt. Diese Erregersteckbriefe werden vom Bundesverband für den öffentlichen Gesundheitsdienst ([BVÖGD](https://bvoegd.de)), dem Robert Koch-Institut ([RKI](https://www.rki.de)) und der Bundeszentrale für Gesundheitliche Aufklärung ([BzGA](https://www.bzga.de)) geprüft und veröffentlicht. Die Merkblätter auf dieser Seite ergänzen das Angebot der Erregersteckbriefe. Unsere Wunschvorstellung ist es, dass diese Merkblätter im weiteren Verlauf zu einem überprüften Erregersteckbrief werden.
 
 ## Autoren
 Diese Merkblätter werden von der AG Merkblatt der Berliner Gesundheitsämter erstellt.
 
 Autoren:
-* Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
+Anfrage zur Namensnennung läuft
+
+<!--- * Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
 * Claudia Ruscher (Landesamt für Gesundheit und Soziales)
 * Denis Hedeler (Infektionsschutz Treptow-Köpenick)
-* Inas Abdelgawad (Infektionsschutz Spandau)
+* Inas Abdelgawad (Infektionsschutz Spandau) --->
+
 * Jakob Schumacher  (Infektionsschutz Reinickendorf)
-* Kathrin Schaten (Infektionsschutz Mitte)
 * Susan Sroka (Infektionsschutz Charlottenburg-Wilmersdorf)
 
+<!--- * Kathrin Schaten (Infektionsschutz Mitte) --->
+
+
+
 ## Mitarbeit
-Helfen ist einfach möglich. Schreiben Sie eine E-Mail an jakob.schumacher@reinickendorf.berlin.de mit Verbesserungsvorschlägen. Oder schreiben Sie Kommentare auf der [Github-Issues Seite](https://github.com/jakobschumacher/oegd_merkblaetter/issues) - dazu ist ein Github-Account notwendig. Wenn Sie keine Angst vor Computer haben können Sie auch direkt die Texte  bearbeiten. Dies geht mit Git und Github wie folgt: Repositorium klonen, Änderungen hinzufügen und dann einen Pull-Request durchführen. Im Internet gibt es viele Anleitungen zum Arbeiten mit Git und Github, ein guter Startpunkt sind die [Github Guides](https://guides.github.com/activities/hello-world/). Die Inhalte sind in den im Ordner ["merkblaetter"](https://github.com/jakobschumacher/oegd_merkblaetter/tree/master/_merkblaetter) hinterlegt. Die Dateien sind im einfachen [Markdown](https://docs.github.com/en/github/writing-on-github) geschrieben.
+Helfen ist einfach möglich. Schreiben Sie eine E-Mail an jakob.schumacher@reinickendorf.berlin.de mit Verbesserungsvorschlägen. Oder schreiben Sie Kommentare auf der [Github-Issues Seite](https://github.com/jakobschumacher/oegd_merkblaetter/issues) - dazu ist ein Github-Account notwendig. Wenn Sie keine Angst vor Computer haben können Sie auch direkt die Texte  bearbeiten. Dies geht mit Git und Github wie folgt: Repositorium klonen, Änderungen hinzufügen und dann einen Pull-Request durchführen. Im Internet gibt es viele Anleitungen zum Arbeiten mit Git und Github, ein guter Startpunkt sind die [Github Guides](https://guides.github.com/activities/hello-world/). Die Inhalte sind in den im Ordner ["merkblaetter"](https://github.com/jakobschumacher/oegd_merkblaetter/tree/master/_merkblaetter) hinterlegt. Die Dateien sind in [Markdown](https://docs.github.com/en/github/writing-on-github) geschrieben.
 
 ## Entstehungsprozess
 Die Merkblätter werden seit 2018 erarbeitet. Sie sind zum größten Teil von der AG Merkblatt neu geschrieben. Die Merkblätter sind unter anderem in einem [Booksprint](https://www.akademie-oegw.de/programm/digitales-lernen/lehrbuch-oeff-gesundheit.html) erarbeitet worden. Die Merkblätter wurde mit Googledocs erstellt. Für die Github Seite wurden die Merkblätter in Markdown mit R umgewandelt.
@@ -32,15 +41,16 @@ Diese Merkblätter haben die folgenden Stadien durchlaufen:
  1. Entwurf
  1. Rohversion
  1. Korrektur-gelesen von einem Mitglied der AG
- 1. Überprüfung auf Erregersteckbrief-Konformität
-    * Überschriften
-    * Verwendung von Erregersteckbrief-Vokabeln
-    * Text nicht zu lang
- 1. Überprüfung gendergerechte Schreibweise
- 1. Überprüfung der Rechtschreibung
 
-Folgende Schritte sind geplant:
- 1. Korrektur Landesamt für Gesundheit und Soziales, Berlin
+
+Folgende weitere Schritte sind geplant:
+1. Überprüfung auf Erregersteckbrief-Konformität
+   * Überschriften
+   * Verwendung von Erregersteckbrief-Vokabeln
+   * Text nicht zu lang
+1. Überprüfung gendergerechte Schreibweise
+1. Überprüfung der Rechtschreibung
+1. Korrektur Landesamt für Gesundheit und Soziales, Berlin
  1. Bestätigung durch die Hygienereferentenrunde von Berlin
  1. Bestätigung durch die Amtsleitungsrunde von Berlin
  1. Veröffentlichung auf dem Berliner Dokumentenserver und der Seite des Landesamtes für Gesundheit und Soziales, Berliner
@@ -132,3 +142,12 @@ Folgende Schritte würden wir uns wünschen:
 * Marburg Virus
 * Tularämie
 * West Nile
+
+
+## Credits
+* Hosting: <a href="https://github.com" rel="nofollow">Github</a>,
+* Design: <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>,
+* Webseite: <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+* Software: <a href="https://inkscape.org/" rel="nofollow">Inkscape</a>, [Atom](https://atom.io)
+
+<!--- * Symbole: [Publicdomainvectors](https://publicdomainvectors.org), [Pixbay](https://pixabay.com/de/illustrations/covid-19-coronavirus-corona-5222513/)--->

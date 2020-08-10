@@ -2,8 +2,10 @@
 layout: merkblatt
 title: Toxoplasmose
 status: 03 Korrektur gelesen von AG
+output:
+  pdf_document:
+    highlight: zenburn
 ---
-Entwurfstatus: 03 Korrektur gelesen von AG
  
 ## Was ist Toxoplasmose?
 

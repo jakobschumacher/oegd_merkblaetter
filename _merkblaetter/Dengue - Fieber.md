@@ -2,8 +2,10 @@
 layout: merkblatt
 title: Dengue - Fieber
 status: 05 Korrektur gelesen vom Lageso
+output:
+  pdf_document:
+    highlight: zenburn
 ---
-Entwurfstatus: 05 Korrektur gelesen vom Lageso
  
 ## Was ist Dengue-Fieber?
 

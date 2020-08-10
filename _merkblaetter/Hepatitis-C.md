@@ -2,8 +2,10 @@
 layout: merkblatt
 title: Hepatitis-C
 status: 04 BZgA-Stil-überprüft
+output:
+  pdf_document:
+    highlight: zenburn
 ---
-Entwurfstatus: 04 BZgA-Stil-überprüft
  
 ## Was ist eine Hepatitis C-Erkrankung
 

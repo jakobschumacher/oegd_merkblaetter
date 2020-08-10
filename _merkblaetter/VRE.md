@@ -2,8 +2,10 @@
 layout: merkblatt
 title: VRE
 status: 07 Rechtschreibung
+output:
+  pdf_document:
+    highlight: zenburn
 ---
-Entwurfstatus: 07 Rechtschreibung
  
 ## Was sind Vancomycin-resistente Enterokokken (VRE)?
 

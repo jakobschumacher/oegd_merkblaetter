@@ -2,8 +2,10 @@
 layout: merkblatt
 title: PVL
 status: 07 Rechtschreibung
+output:
+  pdf_document:
+    highlight: zenburn
 ---
-Entwurfstatus: 07 Rechtschreibung
  
 ## Was ist PVLSA?
 
