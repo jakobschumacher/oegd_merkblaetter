@@ -1,13 +1,13 @@
-# Merkblätter für den Öffentlichen Gesundheitsdienst
-Das ist das Repository für die Webseite der <a href="https://jakobschumacher.github.io/oegd_merkblaetter">Merkblätter für Infektionskrankheiten</a>.
+# Merkblätter für Infektionskrankheiten
+Ergänzende Merkblätter zu den Erregersteckbriefen. Erstellt für den öffentlichen Gesundheitsdienst. Vor Verwendung prüfen. Verbesserungsvorschläge sind willkommen! Das ist das Repository für die Webseite der <a href="https://jakobschumacher.github.io/oegd_merkblaetter">Merkblätter für Infektionskrankheiten</a>.
 <hr />
 <p align="center">
     <a href="pages/about.html">Über das Projekt</a> •
-    <a href="#who-we-are">Über uns</a> •
-    <a href="#data-privacy">Datenschutz</a> •
-    <a href="#licensing">Lizenz</a> •
-    <a href="#how-to-contribute">Mitmachen</a> •
-    <a href="#credits">Credits</a>
+    <a href="pages/about.html">Über uns</a> •
+    <a href="pages/about.html">Datenschutz</a> •
+    <a href="pages/about.html">Lizenz</a> •
+    <a href="pages/about.html">Mitmachen</a> •
+    <a href="pages/about.html#credits">Credits</a>
 </p>
 <hr />
 <p align="center">
