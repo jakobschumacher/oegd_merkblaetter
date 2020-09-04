@@ -7,7 +7,6 @@ output:
     highlight: zenburn
 ---
  
-# Merkblatt für Chlamydia trachomatis 
 
 ## Was ist eine Chlamydia trachomatis-Erkrankung
 
