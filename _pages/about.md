@@ -21,9 +21,9 @@ Anfrage zur Namensnennung läuft
 
 * Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
 * Denis Hedeler (Infektionsschutz Treptow-Köpenick)
-<!--* Inas Abdelgawad (Infektionsschutz Spandau) --->
 * Jakob Schumacher  (Infektionsschutz Reinickendorf)
 * Susan Sroka (Infektionsschutz Charlottenburg-Wilmersdorf)
+<!--* Inas Abdelgawad (Infektionsschutz Spandau) --->
 <!--- * Kathrin Schaten (Infektionsschutz Mitte) --->
 
 ## Mitarbeit
