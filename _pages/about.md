@@ -19,17 +19,12 @@ Diese Merkblätter werden von der AG Merkblatt der Berliner Gesundheitsämter er
 Autoren:
 Anfrage zur Namensnennung läuft
 
-<!--- * Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
-* Claudia Ruscher (Landesamt für Gesundheit und Soziales)
+* Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
 * Denis Hedeler (Infektionsschutz Treptow-Köpenick)
-* Inas Abdelgawad (Infektionsschutz Spandau) --->
-
+<!--* Inas Abdelgawad (Infektionsschutz Spandau) --->
 * Jakob Schumacher  (Infektionsschutz Reinickendorf)
 * Susan Sroka (Infektionsschutz Charlottenburg-Wilmersdorf)
-
 <!--- * Kathrin Schaten (Infektionsschutz Mitte) --->
-
-
 
 ## Mitarbeit
 Helfen ist einfach möglich. Schreiben Sie eine E-Mail an jakob.schumacher@reinickendorf.berlin.de mit Verbesserungsvorschlägen. Oder schreiben Sie Kommentare auf der [Github-Issues Seite](https://github.com/jakobschumacher/oegd_merkblaetter/issues) - dazu ist ein Github-Account notwendig. Wenn Sie keine Angst vor Computer haben können Sie auch direkt die Texte  bearbeiten. Dies geht mit Git und Github wie folgt: Repositorium klonen, Änderungen hinzufügen und dann einen Pull-Request durchführen. Im Internet gibt es viele Anleitungen zum Arbeiten mit Git und Github, ein guter Startpunkt sind die [Github Guides](https://guides.github.com/activities/hello-world/). Die Inhalte sind in den im Ordner ["merkblaetter"](https://github.com/jakobschumacher/oegd_merkblaetter/tree/master/_merkblaetter) hinterlegt. Die Dateien sind in [Markdown](https://docs.github.com/en/github/writing-on-github) geschrieben.
