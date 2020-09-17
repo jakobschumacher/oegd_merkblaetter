@@ -17,12 +17,12 @@ Für bestimmte Infektionskrankheiten gibt es Merkblätter auf der Seite [www.inf
 Diese Merkblätter werden von der AG Merkblatt der Berliner Gesundheitsämter erstellt.
 
 Autoren:
-Anfrage zur Namensnennung läuft
-
 * Bettina Weiß (Infektionsschutz Charlottenburg-Wilmersdorf)
 * Denis Hedeler (Infektionsschutz Treptow-Köpenick)
 * Jakob Schumacher  (Infektionsschutz Reinickendorf)
 * Susan Sroka (Infektionsschutz Charlottenburg-Wilmersdorf)
+
+Und weitere Mitglieder der AG Merkblatt
 <!--* Inas Abdelgawad (Infektionsschutz Spandau) --->
 <!--- * Kathrin Schaten (Infektionsschutz Mitte) --->
 
